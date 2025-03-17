@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: loan_prediction_model
+Version: 1.0
+Summary: A loan prediction model package that includes a trained pipeline for classification.
+Home-page: https://github.com/felipeagferreira/ml-submission
+Author: Felipe A. G. Ferreira
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: joblib
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: feature-engine
+Requires-Dist: lightgbm

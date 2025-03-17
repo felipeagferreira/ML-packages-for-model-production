@@ -1,0 +1,15 @@
+.gitignore
+README.md
+SOLUTION.md
+requirements.txt
+setup.py
+.ipynb_checkpoints/README-checkpoint.md
+dataset/loan_data.csv
+loan_prediction_model.egg-info/PKG-INFO
+loan_prediction_model.egg-info/SOURCES.txt
+loan_prediction_model.egg-info/dependency_links.txt
+loan_prediction_model.egg-info/requires.txt
+loan_prediction_model.egg-info/top_level.txt
+scripts/__init__.py
+scripts/config.py
+scripts/download_data.py
