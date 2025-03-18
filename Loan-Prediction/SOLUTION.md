@@ -1,7 +1,7 @@
 
 
 1. Project Overview 
-This projects is based on building a productive Loan Default Prediction model to predict loan repayment. The goal is to develop a robust model pipeline that can do a fast model comparison analysis in a reproducible and scalable way. The data used for this project is a bank loan dataset which can be loaded from the following page of Kaggle platform 
+This project is based on building a productive Loan Default Prediction model to predict loan repayment. The goal is to develop a robust model pipeline that can do a fast model comparison analysis in a reproducible and scalable way. The data used for this project is a bank loan dataset which can be loaded from the following page of Kaggle platform 
 https://www.kaggle.com/datasets/udaymalviya/bank-loan-data?select=loan_data.csv.
 
 
