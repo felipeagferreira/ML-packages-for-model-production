@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/udaymalviya/bank-loan-data?select=loan_data.csv.
 
 
 
-3. Solution Summary 
+2. Solution Summary 
 The solution is design as follows:
     1. Model EDA to analyse statistical distributions and correlations of each feature;
     2. Develop a feature engineering pipeline based on reproducibility and scalability to ensure that transformations are consistently applied to new data.
