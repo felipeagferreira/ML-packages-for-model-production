@@ -41,4 +41,4 @@ To ensure the model remains effective over time, the following metrics should be
 
 These metrics were all included on the model pipeline. A good way to detect concept is to compare actual loan repayment outcomes with predicted values to see if the model keeps its same opinion or starts changing its behavior, whereas an efficient way to identify shifts in input feature distributions over time is with Population Stability Index (PSI). As justification, AUC-ROC & F1-Score ensure the model's predictive power remains high and PSI & Concept Drift detection prevent inaccurate predictions due to changing customer behaviors.
 
-Although no implementation is required, frameworks like EvidentlyAI, MLflow, or a cloud monitoring dashboard could be useful to implement the model.
+Frameworks like EvidentlyAI, MLflow, or a cloud monitoring dashboard could be useful to implement the model.
