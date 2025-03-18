@@ -1,12 +1,13 @@
 
 
-1. Project Overview 
+1. Project Overview
+
 This project is based on building a productive Loan Default Prediction model to predict loan repayment. The goal is to develop a robust model pipeline that can do a fast model comparison analysis in a reproducible and scalable way. The data used for this project is a bank loan dataset which can be loaded from the following page of Kaggle platform 
 https://www.kaggle.com/datasets/udaymalviya/bank-loan-data?select=loan_data.csv.
 
 
 
-2. Solution Summary 
+3. Solution Summary 
 The solution is design as follows:
     1. Model EDA to analyse statistical distributions and correlations of each feature;
     2. Develop a feature engineering pipeline based on reproducibility and scalability to ensure that transformations are consistently applied to new data.
